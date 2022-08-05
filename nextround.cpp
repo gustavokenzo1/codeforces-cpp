@@ -11,7 +11,6 @@ int main()
   int score;
   int scores[n];
   int score_to_beat;
-
   int advance = 0;
 
   for (int i = 0; i < n; i++)
